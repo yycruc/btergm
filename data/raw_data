@@ -1,0 +1,5 @@
+The data used in this study come from the PatentsView open data platform , supported by the USPTO’s Chief Economist Office. PatentsView provides comprehensive patent data including metadata, classification information, and funding details. We downloaded and processed three primary datasets: (1) “g_cpc_current”, containing mappings between patent numbers and their CPC codes; (2) “g_patent”, which includes patent metadata such as publication year; and (3) “g_gov_interest”, identifying patents receiving government funding.
+Download links for raw data:
+1) “g_cpc_current”: https://s3.amazonaws.com/data.patentsview.org/download/g_cpc_current.tsv.zip
+2) “g_patent”: https://s3.amazonaws.com/data.patentsview.org/download/g_patent.tsv.zip
+3) “g_gov_interest”: https://s3.amazonaws.com/data.patentsview.org/download/g_gov_interest.tsv.zip
