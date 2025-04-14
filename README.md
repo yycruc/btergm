@@ -1,6 +1,6 @@
 # Technology Convergence Dynamics
 This repository contains data and code associated with the article:
-- **Uncovering the Formation Dynamics of Technology Convergence: A Multi-dimensional BTERGM Approach Integrating Static and Temporal Mechanisms**
+> **Uncovering the Formation Dynamics of Technology Convergence: A Multi-dimensional BTERGM Approach Integrating Static and Temporal Mechanisms**
 
 ## Repository Contents
 ### Data
