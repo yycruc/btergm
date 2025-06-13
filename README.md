@@ -37,7 +37,7 @@ This repository contains data and code associated with the article:
 | Model 4 | 2582.86 | 43.0 | Model 11 | 3909.66 | 65.2 |
 | Model 5 | 999.24 | 16.7 | Model 12 | 3377.38 | 56.3 |
 | Model 6 | 3873.53 | 64.6 | Model 13 | 3278.00 | 54.6 |
-| Model 7 | 3824.78 | 63.7 |-------|-------|-------|
+| Model 7 | 3824.78 | 63.7 | | | |
 
 > **Note**   
 > *Times were recorded with `proc.time()` calls surrounding each `btergm()` invocation.  
