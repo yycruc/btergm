@@ -41,9 +41,9 @@ This repository contains data and code associated with the article:
 | M8 | 3963.82 | 66.1 |
 | M9 | 3802.88 | 63.4 |
 | M10 | 4754.26 | 79.2 |
-| M11 | — | — |
-| M12 | — | — |
-| M13 | — | — |
+| M11 | 3909.66 | 65.2 |
+| M12 | 3377.38 | 56.3 |
+| M13 | 3278.00 | 54.6 |
 
 > **Note**   
 > *Times were recorded with `proc.time()` calls surrounding each `btergm()` invocation.  
