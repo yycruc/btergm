@@ -29,21 +29,15 @@ This repository contains data and code associated with the article:
 * **Parallel backend** : `parallel = "snow"` with `ncpus = 5`
 
 ### BTERGM Estimation Time
-| Model | Runtime (seconds) | Runtime (minutes) |
-|-------|-------------------|-------------------|
-| M1 | 207.23 | 3.5 |
-| M2 | 1149.82 | 19.2 |
-| M3 | 1419.83 | 23.7 |
-| M4 | 2582.86 | 43.0 |
-| M5 | 999.24 | 16.7 |
-| M6 | 3873.53 | 64.6 |
-| M7 | 3824.78 | 63.7 |
-| M8 | 3963.82 | 66.1 |
-| M9 | 3802.88 | 63.4 |
-| M10 | 4754.26 | 79.2 |
-| M11 | 3909.66 | 65.2 |
-| M12 | 3377.38 | 56.3 |
-| M13 | 3278.00 | 54.6 |
+| Model | Runtime (seconds) | Runtime (minutes) || Model | Runtime (seconds) | Runtime (minutes) |
+|-------|-------------------|-------------------||-------|-------------------|-------------------|
+| M1 | 207.23 | 3.5 || M8 | 3963.82 | 66.1 |
+| M2 | 1149.82 | 19.2 || M9 | 3802.88 | 63.4 |
+| M3 | 1419.83 | 23.7 || M10 | 4754.26 | 79.2 |
+| M4 | 2582.86 | 43.0 || M11 | 3909.66 | 65.2 |
+| M5 | 999.24 | 16.7 || M12 | 3377.38 | 56.3 |
+| M6 | 3873.53 | 64.6 || M13 | 3278.00 | 54.6 |
+| M7 | 3824.78 | 63.7 ||
 
 > **Note**   
 > *Times were recorded with `proc.time()` calls surrounding each `btergm()` invocation.  
